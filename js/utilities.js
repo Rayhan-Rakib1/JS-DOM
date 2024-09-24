@@ -2,7 +2,7 @@
 
 document.getElementById('noakhali-donate').addEventListener('click', function(event){
     event.preventDefault();
-    donate('noakhali-donate-amount', 'noakhali-donate-balance', 'famine-2024 at Feni, Bangladesh');
+    donate('noakhali-donate-amount', 'noakhali-donate-balance', 'famine-2024 at noakhali, Bangladesh');
 })
 
 
